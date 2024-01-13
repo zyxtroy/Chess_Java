@@ -1,4 +1,4 @@
-# Heron_phase3
+# Chess
 
 This is a simple graphical chess game implemented in Java.
 
