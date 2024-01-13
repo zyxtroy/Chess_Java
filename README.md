@@ -16,14 +16,14 @@ This is a simple graphical chess game implemented in Java.
 
 ## Compiling and Running the Game
 
-1. Navigate to the directory containing the source files (`276_Heron-main`).
+1. Navigate to the directory containing the source files.
 
 2. Compile the Java files:
 
    ```bash
    javac -d bin src/*.java
 
-3. Run the `Main` class in IntelliJ or use command:
+3. Run the `Main` class in IntelliJ or use the command:
 
     ```bash
     java -cp bin Main
